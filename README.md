@@ -1,0 +1,2 @@
+# ML-EMPLOYEE-CHURNOUT
+The challenge was to conclude the factors affecting employee turnover on a simulated company using various exploratory data analysis techniques and statistical testing. • Deduced from various graphs and a correlation matrix that employee satisfaction, evaluation, average monthly hours, and project count were leading factors in turnover. • Understood the importance of using a ROC graph to measure precision/recall rates for class imbalances to evaluate model performance rather than accuracy.
